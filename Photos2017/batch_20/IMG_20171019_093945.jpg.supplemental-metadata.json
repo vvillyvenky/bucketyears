@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20171019_093945.jpg",
+  "description": "",
+  "imageViews": "66",
+  "creationTime": {
+    "timestamp": "1508386256",
+    "formatted": "Oct 19, 2017, 4:10:56 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1508386186",
+    "formatted": "Oct 19, 2017, 4:09:46 AM UTC"
+  },
+  "geoData": {
+    "latitude": 11.0080861,
+    "longitude": 76.9418639,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 11.0080861,
+    "longitude": 76.9418639,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMki86sJuEGo1Rcb0kLV5Yxq4fqhwcz-r1CHBxa",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

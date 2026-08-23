@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20171017_060349.jpg",
+  "description": "",
+  "imageViews": "61",
+  "creationTime": {
+    "timestamp": "1508218612",
+    "formatted": "Oct 17, 2017, 5:36:52 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1508200430",
+    "formatted": "Oct 17, 2017, 12:33:50 AM UTC"
+  },
+  "geoData": {
+    "latitude": 13.0386194,
+    "longitude": 80.21405,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 13.0386194,
+    "longitude": 80.21405,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNaGOTa4EM_-ViGi5uLV12Cv3CECiv55nP2306j",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

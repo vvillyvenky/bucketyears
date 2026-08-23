@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20171021_064000.jpg",
+  "description": "",
+  "imageViews": "41",
+  "creationTime": {
+    "timestamp": "1508553502",
+    "formatted": "Oct 21, 2017, 2:38:22 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1508548201",
+    "formatted": "Oct 21, 2017, 1:10:01 AM UTC"
+  },
+  "geoData": {
+    "latitude": 13.038599999999999,
+    "longitude": 80.21406669999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 13.038599999999999,
+    "longitude": 80.21406669999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPaqLwv4tZHTvIA9hE9dnhxpR77jfv3uBnlyfQg",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
