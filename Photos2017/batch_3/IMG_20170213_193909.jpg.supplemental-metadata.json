@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170213_193909.jpg",
+  "description": "",
+  "imageViews": "29",
+  "creationTime": {
+    "timestamp": "1487043637",
+    "formatted": "Feb 14, 2017, 3:40:37 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1487043550",
+    "formatted": "Feb 14, 2017, 3:39:10 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.532258299999995,
+    "longitude": -122.87475280000001,
+    "altitude": 42.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.532258299999995,
+    "longitude": -122.87475280000001,
+    "altitude": 42.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOg9IljlzbdilJwEBTqDsuLf_gJLrD4CTj60_S4",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170123_172047.jpg",
+  "description": "",
+  "imageViews": "41",
+  "creationTime": {
+    "timestamp": "1485224460",
+    "formatted": "Jan 24, 2017, 2:21:00 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1485220848",
+    "formatted": "Jan 24, 2017, 1:20:48 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5459806,
+    "longitude": -122.9128722,
+    "altitude": -0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5459806,
+    "longitude": -122.9128722,
+    "altitude": -0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOqtieNhetbP2_zQeiK-ngsSTqf-QsebkF34Hir",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

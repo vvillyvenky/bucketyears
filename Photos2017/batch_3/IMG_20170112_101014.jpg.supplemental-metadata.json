@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170112_101014.jpg",
+  "description": "",
+  "imageViews": "32",
+  "creationTime": {
+    "timestamp": "1484269124",
+    "formatted": "Jan 13, 2017, 12:58:44 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1484244615",
+    "formatted": "Jan 12, 2017, 6:10:15 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5435361,
+    "longitude": -122.90921390000001,
+    "altitude": 299.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5435361,
+    "longitude": -122.90921390000001,
+    "altitude": 299.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPwBQ6C8OaNyZia8CLX7oeHdK5ZtFACB0D8gupP",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

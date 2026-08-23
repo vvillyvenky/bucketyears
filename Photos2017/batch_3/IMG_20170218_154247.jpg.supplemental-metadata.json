@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170218_154247.jpg",
+  "description": "",
+  "imageViews": "38",
+  "creationTime": {
+    "timestamp": "1487461404",
+    "formatted": "Feb 18, 2017, 11:43:24 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1487461368",
+    "formatted": "Feb 18, 2017, 11:42:48 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.532297199999995,
+    "longitude": -122.87453610000001,
+    "altitude": 48.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.532297199999995,
+    "longitude": -122.87453610000001,
+    "altitude": 48.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOD-A71beXSHXKt6jPWv1aZgXwxuLogCHpX0Ofb",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

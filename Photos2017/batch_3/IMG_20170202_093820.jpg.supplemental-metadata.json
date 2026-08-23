@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170202_093820.jpg",
+  "description": "",
+  "imageViews": "27",
+  "creationTime": {
+    "timestamp": "1486057142",
+    "formatted": "Feb 2, 2017, 5:39:02 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1486057101",
+    "formatted": "Feb 2, 2017, 5:38:21 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.532374999999995,
+    "longitude": -122.87468890000001,
+    "altitude": 62.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.532374999999995,
+    "longitude": -122.87468890000001,
+    "altitude": 62.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipObPzM92ZUNk2mevilGGi-nghJ7GJsuDfJ-AGB1",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

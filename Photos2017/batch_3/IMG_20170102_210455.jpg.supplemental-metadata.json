@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170102_210455.jpg",
+  "description": "",
+  "imageViews": "40",
+  "creationTime": {
+    "timestamp": "1483419941",
+    "formatted": "Jan 3, 2017, 5:05:41 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1483419896",
+    "formatted": "Jan 3, 2017, 5:04:56 AM UTC"
+  },
+  "geoData": {
+    "latitude": 34.199247199999995,
+    "longitude": -118.9199361,
+    "altitude": -0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 34.199247199999995,
+    "longitude": -118.9199361,
+    "altitude": -0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNqHfSP91yuIefaYbKq8z3ntZ5wbkWGijKnwp-z",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

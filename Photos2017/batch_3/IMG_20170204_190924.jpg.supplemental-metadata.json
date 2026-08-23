@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170204_190924.jpg",
+  "description": "",
+  "imageViews": "32",
+  "creationTime": {
+    "timestamp": "1486264186",
+    "formatted": "Feb 5, 2017, 3:09:46 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1486264165",
+    "formatted": "Feb 5, 2017, 3:09:25 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5321583,
+    "longitude": -122.8747806,
+    "altitude": -0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5321583,
+    "longitude": -122.8747806,
+    "altitude": -0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipN3yT3dTg_wAOBmlh3UC_urNYrM1iO0VJoKruvN",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

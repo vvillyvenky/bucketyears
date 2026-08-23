@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170102_200145.jpg",
+  "description": "",
+  "imageViews": "29",
+  "creationTime": {
+    "timestamp": "1483416136",
+    "formatted": "Jan 3, 2017, 4:02:16 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1483416107",
+    "formatted": "Jan 3, 2017, 4:01:47 AM UTC"
+  },
+  "geoData": {
+    "latitude": 34.199266699999995,
+    "longitude": -118.9198806,
+    "altitude": 167.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 34.199266699999995,
+    "longitude": -118.9198806,
+    "altitude": 167.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOOArOWr9JM2lfZkTmqP_oxIPNLdd-JJoMsciYa",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
