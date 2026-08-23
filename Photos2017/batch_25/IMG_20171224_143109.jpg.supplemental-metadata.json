@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20171224_143109.jpg",
+  "description": "",
+  "imageViews": "61",
+  "creationTime": {
+    "timestamp": "1514157148",
+    "formatted": "Dec 24, 2017, 11:12:28 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1514143870",
+    "formatted": "Dec 24, 2017, 7:31:10 PM UTC"
+  },
+  "geoData": {
+    "latitude": 34.0094917,
+    "longitude": -81.0751306,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 34.0094917,
+    "longitude": -81.0751306,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipODDaQI25Fvdk5s_MM9Jl9DQcNg-7orroINqF5l",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
