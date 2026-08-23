@@ -1,0 +1,29 @@
+{
+  "title": "IMG_20170520_173748.jpg",
+  "description": "",
+  "imageViews": "79",
+  "creationTime": {
+    "timestamp": "1495336627",
+    "formatted": "May 21, 2017, 3:17:07 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1495327069",
+    "formatted": "May 21, 2017, 12:37:49 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOfxfLxUTc0VxdFpVZ9Zs8FSYcfQFzsJoPJkyyG",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

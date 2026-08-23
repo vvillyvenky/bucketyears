@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170429_150240.jpg",
+  "description": "",
+  "imageViews": "49",
+  "creationTime": {
+    "timestamp": "1493528249",
+    "formatted": "Apr 30, 2017, 4:57:29 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1493503361",
+    "formatted": "Apr 29, 2017, 10:02:41 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5396444,
+    "longitude": -122.24453330000001,
+    "altitude": 208.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5396444,
+    "longitude": -122.24453330000001,
+    "altitude": 208.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipM_MDu2f9pP-sSlTGfuJy5vT7AblMLgUDVLGtPy",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

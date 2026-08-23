@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170503_182339.jpg",
+  "description": "",
+  "imageViews": "85",
+  "creationTime": {
+    "timestamp": "1493862427",
+    "formatted": "May 4, 2017, 1:47:07 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1493861020",
+    "formatted": "May 4, 2017, 1:23:40 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5321833,
+    "longitude": -122.8747167,
+    "altitude": 33.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5321833,
+    "longitude": -122.8747167,
+    "altitude": 33.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPErFkxMg_CAVW29DPTSzaQz4NBv4mpD7fa4Slc",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

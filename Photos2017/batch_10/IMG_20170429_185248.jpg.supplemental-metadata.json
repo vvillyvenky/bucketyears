@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170429_185248.jpg",
+  "description": "",
+  "imageViews": "55",
+  "creationTime": {
+    "timestamp": "1493528634",
+    "formatted": "Apr 30, 2017, 5:03:54 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1493517169",
+    "formatted": "Apr 30, 2017, 1:52:49 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5339222,
+    "longitude": -122.8955944,
+    "altitude": 18.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5339222,
+    "longitude": -122.8955944,
+    "altitude": 18.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPYXXoqDsfRNJSRcxhlDffq9RGDP40aV0__1MrE",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
