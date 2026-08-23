@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170902_153429.jpg",
+  "description": "",
+  "imageViews": "18",
+  "creationTime": {
+    "timestamp": "1504400354",
+    "formatted": "Sep 3, 2017, 12:59:14 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1504391671",
+    "formatted": "Sep 2, 2017, 10:34:31 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.575044399999996,
+    "longitude": -122.10854719999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.575044399999996,
+    "longitude": -122.10854719999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMIwPk45hhz1n4JKptg8giXsUJDYAAZRGR4lx2P",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
