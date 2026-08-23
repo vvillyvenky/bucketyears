@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160503_113027.jpg",
+  "description": "",
+  "imageViews": "9",
+  "creationTime": {
+    "timestamp": "1465183200",
+    "formatted": "Jun 6, 2016, 3:20:00 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1462300230",
+    "formatted": "May 3, 2016, 6:30:30 PM UTC"
+  },
+  "geoData": {
+    "latitude": 36.1187083,
+    "longitude": -115.175975,
+    "altitude": -0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 36.1187083,
+    "longitude": -115.175975,
+    "altitude": -0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipO5M3xNKECwWDVyr1VyXirsyOVXpKt01Vn42FJ8",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
