@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170708_201930.jpg",
+  "description": "",
+  "imageViews": "87",
+  "creationTime": {
+    "timestamp": "1505917192",
+    "formatted": "Sep 20, 2017, 2:19:52 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1499570371",
+    "formatted": "Jul 9, 2017, 3:19:31 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5318778,
+    "longitude": -122.8747167,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5318778,
+    "longitude": -122.8747167,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPaNg1CEkhLl0deDfS6YzVVGFeNZ92iYdPKFNxB",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

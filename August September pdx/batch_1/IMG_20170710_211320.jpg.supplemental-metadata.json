@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170710_211320.jpg",
+  "description": "",
+  "imageViews": "65",
+  "creationTime": {
+    "timestamp": "1505917192",
+    "formatted": "Sep 20, 2017, 2:19:52 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1499746401",
+    "formatted": "Jul 11, 2017, 4:13:21 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5320444,
+    "longitude": -122.87436109999999,
+    "altitude": 61.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5320444,
+    "longitude": -122.87436109999999,
+    "altitude": 61.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOuhVP82bBX5uxlxURHwclKYAY0y6OjWWNllBhE",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
