@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170704_015654.jpg",
+  "description": "",
+  "imageViews": "55",
+  "creationTime": {
+    "timestamp": "1499158651",
+    "formatted": "Jul 4, 2017, 8:57:31 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1499158615",
+    "formatted": "Jul 4, 2017, 8:56:55 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5323833,
+    "longitude": -122.8746361,
+    "altitude": 51.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5323833,
+    "longitude": -122.8746361,
+    "altitude": 51.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOZpWzZqeGqpp_Ksv263aUkG0fqJCF3DnymwJVv",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

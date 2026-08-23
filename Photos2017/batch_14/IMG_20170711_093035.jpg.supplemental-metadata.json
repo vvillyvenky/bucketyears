@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170711_093035.jpg",
+  "description": "",
+  "imageViews": "27",
+  "creationTime": {
+    "timestamp": "1499790724",
+    "formatted": "Jul 11, 2017, 4:32:04 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1499790638",
+    "formatted": "Jul 11, 2017, 4:30:38 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.53242780000001,
+    "longitude": -122.8744583,
+    "altitude": 63.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.53242780000001,
+    "longitude": -122.8744583,
+    "altitude": 63.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipM9dH9M5MjIEO4L0g0jT7tcdI66HiaEB0bXRw9A",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

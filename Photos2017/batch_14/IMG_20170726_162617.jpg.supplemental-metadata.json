@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170726_162617.jpg",
+  "description": "",
+  "imageViews": "49",
+  "creationTime": {
+    "timestamp": "1501193694",
+    "formatted": "Jul 27, 2017, 10:14:54 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1501111578",
+    "formatted": "Jul 26, 2017, 11:26:18 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.532174999999995,
+    "longitude": -122.87471939999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.532174999999995,
+    "longitude": -122.87471939999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPCgC99hwhLVhQs72OGMWmXOO5w1hcw9NIC8eDb",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

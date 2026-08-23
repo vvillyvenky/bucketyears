@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170719_193934.jpg",
+  "description": "",
+  "imageViews": "74",
+  "creationTime": {
+    "timestamp": "1500518417",
+    "formatted": "Jul 20, 2017, 2:40:17 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1500518376",
+    "formatted": "Jul 20, 2017, 2:39:36 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5322028,
+    "longitude": -122.87468609999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5322028,
+    "longitude": -122.87468609999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPHwZervXMJEdS0oFTkNN0_AMsN3tjMOXDe5DsV",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
