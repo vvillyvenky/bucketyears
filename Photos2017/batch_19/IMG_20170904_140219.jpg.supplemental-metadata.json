@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170904_140219.jpg",
+  "description": "",
+  "imageViews": "46",
+  "creationTime": {
+    "timestamp": "1504567779",
+    "formatted": "Sep 4, 2017, 11:29:39 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1504558939",
+    "formatted": "Sep 4, 2017, 9:02:19 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.279497199999994,
+    "longitude": -122.70827779999999,
+    "altitude": 42.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.279497199999994,
+    "longitude": -122.70827779999999,
+    "altitude": 42.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNrYSnyj1aTrzF3cVyfMLG0L9TCyopKWxkfmtm3",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
