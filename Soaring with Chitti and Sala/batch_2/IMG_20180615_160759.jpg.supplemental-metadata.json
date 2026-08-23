@@ -1,0 +1,33 @@
+{
+  "title": "IMG_20180615_160759.jpg",
+  "description": "",
+  "imageViews": "26",
+  "creationTime": {
+    "timestamp": "1529110497",
+    "formatted": "Jun 16, 2018, 12:54:57 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1529104080",
+    "formatted": "Jun 15, 2018, 11:08:00 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.6065167,
+    "longitude": -123.0310222,
+    "altitude": 31.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.6065167,
+    "longitude": -123.0310222,
+    "altitude": 31.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNyVwPvHA5W-pnOUvBkWZfTTP09j5Qeax421jdi",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
