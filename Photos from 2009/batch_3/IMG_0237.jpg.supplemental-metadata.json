@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0237.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1242208810",
+    "formatted": "May 13, 2009, 10:00:10 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234704114",
+    "formatted": "Feb 15, 2009, 1:21:54 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNW3q_lpk4gSWWe6QZ7-DveZ5q4Hia_2h6pWNys",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

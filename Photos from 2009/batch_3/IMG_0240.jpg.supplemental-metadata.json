@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0240.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1242208814",
+    "formatted": "May 13, 2009, 10:00:14 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234704499",
+    "formatted": "Feb 15, 2009, 1:28:19 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOTFtQujYusbOinEYdtx3gQ9UKwSnlbNpjoiplu",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

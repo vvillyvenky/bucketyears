@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0228.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1242208796",
+    "formatted": "May 13, 2009, 9:59:56 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234703975",
+    "formatted": "Feb 15, 2009, 1:19:35 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNj1wEcHqS4ej6YjWOJHiDUjPe2tbXhQ-8QnW7N",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

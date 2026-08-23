@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0201.jpg",
+  "description": "",
+  "imageViews": "13",
+  "creationTime": {
+    "timestamp": "1242208754",
+    "formatted": "May 13, 2009, 9:59:14 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234702593",
+    "formatted": "Feb 15, 2009, 12:56:33 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOXDLTWHjgPcdGnOhDlDIA85WG5KEhKzI_snSKj",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

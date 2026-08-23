@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0233.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1242208804",
+    "formatted": "May 13, 2009, 10:00:04 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234704069",
+    "formatted": "Feb 15, 2009, 1:21:09 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNnG7T8Y3m50Qp2icCUeb0ejjm2wAEGFEDOJZu7",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

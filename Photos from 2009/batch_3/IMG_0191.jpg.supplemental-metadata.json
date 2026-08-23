@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0191.jpg",
+  "description": "",
+  "imageViews": "13",
+  "creationTime": {
+    "timestamp": "1242208739",
+    "formatted": "May 13, 2009, 9:58:59 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234701846",
+    "formatted": "Feb 15, 2009, 12:44:06 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOYfZ488rNgbzmiF1_ZV1TZdQAC7t5x1MACA9fy",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

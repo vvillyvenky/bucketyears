@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0235.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1242208807",
+    "formatted": "May 13, 2009, 10:00:07 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234704104",
+    "formatted": "Feb 15, 2009, 1:21:44 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOHrU8kE0p3JQe4l8rCvR3SdgbJ1fjs_05uJ2uV",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

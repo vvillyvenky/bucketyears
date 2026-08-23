@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0241.jpg",
+  "description": "",
+  "imageViews": "9",
+  "creationTime": {
+    "timestamp": "1242208816",
+    "formatted": "May 13, 2009, 10:00:16 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234704510",
+    "formatted": "Feb 15, 2009, 1:28:30 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOVDI5RCsHVDNzRX90v5nuZWGcCTm6j04pEloJ0",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

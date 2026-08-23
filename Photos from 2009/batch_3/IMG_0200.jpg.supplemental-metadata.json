@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0200.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1242208752",
+    "formatted": "May 13, 2009, 9:59:12 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234702501",
+    "formatted": "Feb 15, 2009, 12:55:01 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNupTuCBQqCESr8QpcbC_uLeNjUiP9_Pm5ZQYOc",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0213.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1242208773",
+    "formatted": "May 13, 2009, 9:59:33 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234703625",
+    "formatted": "Feb 15, 2009, 1:13:45 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNhfAgnCLQjXwn44HrY4-i8ccEGl8pnDqKZhLZ3",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

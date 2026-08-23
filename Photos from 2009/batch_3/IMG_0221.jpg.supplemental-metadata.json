@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0221.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1242208787",
+    "formatted": "May 13, 2009, 9:59:47 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234703852",
+    "formatted": "Feb 15, 2009, 1:17:32 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPK4SgNQFgBFI_ypPxgFyRdflyJK4Qa502ymZH2",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

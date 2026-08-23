@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0202.jpg",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1242208755",
+    "formatted": "May 13, 2009, 9:59:15 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234702726",
+    "formatted": "Feb 15, 2009, 12:58:46 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPaNinyqmqL3jPWgEBlEiM73TQ4JbsSDDVftZC7",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0216.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1242208778",
+    "formatted": "May 13, 2009, 9:59:38 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234703638",
+    "formatted": "Feb 15, 2009, 1:13:58 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipN0uKkicEcRen34gmFkkS0K2MsqQUIVy70polG9",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}
