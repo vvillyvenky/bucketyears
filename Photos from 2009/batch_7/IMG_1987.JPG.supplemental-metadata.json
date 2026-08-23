@@ -1,0 +1,25 @@
+{
+  "title": "IMG_1987.JPG",
+  "description": "",
+  "imageViews": "27",
+  "creationTime": {
+    "timestamp": "1242206071",
+    "formatted": "May 13, 2009, 9:14:31 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1241295227",
+    "formatted": "May 2, 2009, 8:13:47 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNOiHWtZUvAJZEKEsYY_mz1HhLp0mCce6gotqXx",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

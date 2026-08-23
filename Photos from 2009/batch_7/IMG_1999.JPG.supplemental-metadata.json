@@ -1,0 +1,25 @@
+{
+  "title": "IMG_1999.JPG",
+  "description": "",
+  "imageViews": "17",
+  "creationTime": {
+    "timestamp": "1242206094",
+    "formatted": "May 13, 2009, 9:14:54 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1241297166",
+    "formatted": "May 2, 2009, 8:46:06 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMbGZmHBU6brdlLlBUY_UgLsNxhKhaQtQDoVxYd",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

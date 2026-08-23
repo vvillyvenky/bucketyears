@@ -1,0 +1,25 @@
+{
+  "title": "IMG_2001.JPG",
+  "description": "",
+  "imageViews": "11",
+  "creationTime": {
+    "timestamp": "1242206098",
+    "formatted": "May 13, 2009, 9:14:58 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1241297478",
+    "formatted": "May 2, 2009, 8:51:18 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNia32ouJtgRI7akEscdhwqhnFWlU9qVnydBg_b",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

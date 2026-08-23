@@ -1,0 +1,25 @@
+{
+  "title": "IMG_2004.JPG",
+  "description": "",
+  "imageViews": "13",
+  "creationTime": {
+    "timestamp": "1242206102",
+    "formatted": "May 13, 2009, 9:15:02 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1241297769",
+    "formatted": "May 2, 2009, 8:56:09 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNQmvLvUWCtQ7cwXvx3DR1cveAdMCkr9cC5MoES",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}
