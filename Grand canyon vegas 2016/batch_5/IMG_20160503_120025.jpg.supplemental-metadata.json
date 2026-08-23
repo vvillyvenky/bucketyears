@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160503_120025.jpg",
+  "description": "",
+  "imageViews": "18",
+  "creationTime": {
+    "timestamp": "1465183200",
+    "formatted": "Jun 6, 2016, 3:20:00 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1462302028",
+    "formatted": "May 3, 2016, 7:00:28 PM UTC"
+  },
+  "geoData": {
+    "latitude": 36.1188778,
+    "longitude": -115.17610559999999,
+    "altitude": 668.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 36.1188778,
+    "longitude": -115.17610559999999,
+    "altitude": 668.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMagrTjQgU0626CyuYMDgEqEd15lIM-9h2viYuL",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

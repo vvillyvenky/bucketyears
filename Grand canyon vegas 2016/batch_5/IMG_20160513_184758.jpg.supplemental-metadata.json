@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160513_184758.jpg",
+  "description": "",
+  "imageViews": "27",
+  "creationTime": {
+    "timestamp": "1465183200",
+    "formatted": "Jun 6, 2016, 3:20:00 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1463190479",
+    "formatted": "May 14, 2016, 1:47:59 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.8841833,
+    "longitude": -123.96501389999997,
+    "altitude": -16.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.8841833,
+    "longitude": -123.96501389999997,
+    "altitude": -16.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMwVG_I_RULGe5qmqOmndwX60ND1lxyGGkLbUbN",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

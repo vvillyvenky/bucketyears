@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160513_184725.jpg",
+  "description": "",
+  "imageViews": "12",
+  "creationTime": {
+    "timestamp": "1465183200",
+    "formatted": "Jun 6, 2016, 3:20:00 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1463190447",
+    "formatted": "May 14, 2016, 1:47:27 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.8841944,
+    "longitude": -123.96520279999999,
+    "altitude": -28.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.8841944,
+    "longitude": -123.96520279999999,
+    "altitude": -28.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipM2fj1A3g-I1p0qNfOmt3PJ1Lupag3kbqs1neNz",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
