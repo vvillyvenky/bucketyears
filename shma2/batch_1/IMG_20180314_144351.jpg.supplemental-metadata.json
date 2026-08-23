@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20180314_144351.jpg",
+  "description": "",
+  "imageViews": "28",
+  "creationTime": {
+    "timestamp": "1521075309",
+    "formatted": "Mar 15, 2018, 12:55:09 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1521063832",
+    "formatted": "Mar 14, 2018, 9:43:52 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5323833,
+    "longitude": -122.87407499999999,
+    "altitude": 13.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5323833,
+    "longitude": -122.87407499999999,
+    "altitude": 13.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOfxZ-nrizaS_bAnuU-Xa-PMNoLf-rgE_42L-3U",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
