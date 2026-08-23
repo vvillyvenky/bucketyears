@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0332.jpg",
+  "description": "",
+  "imageViews": "10",
+  "creationTime": {
+    "timestamp": "1242209002",
+    "formatted": "May 13, 2009, 10:03:22 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234797732",
+    "formatted": "Feb 16, 2009, 3:22:12 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPn-5zUdG7Xt2pJ3QN8w40DRKk5NvseXE5WLtiw",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

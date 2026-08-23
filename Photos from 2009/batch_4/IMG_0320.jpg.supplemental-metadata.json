@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0320.jpg",
+  "description": "",
+  "imageViews": "9",
+  "creationTime": {
+    "timestamp": "1242208983",
+    "formatted": "May 13, 2009, 10:03:03 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234719359",
+    "formatted": "Feb 15, 2009, 5:35:59 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOxCoKOWIl7Y8KnyENCSSUUjo-MMYtPWcDTLgef",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

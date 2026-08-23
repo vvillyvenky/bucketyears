@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0285.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1242208870",
+    "formatted": "May 13, 2009, 10:01:10 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234714403",
+    "formatted": "Feb 15, 2009, 4:13:23 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMU5tQxFhqiVfG5xlj-aeX38SWORySzMhdVccCl",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

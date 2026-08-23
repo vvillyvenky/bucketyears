@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0327.jpg",
+  "description": "",
+  "imageViews": "9",
+  "creationTime": {
+    "timestamp": "1242208994",
+    "formatted": "May 13, 2009, 10:03:14 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234789724",
+    "formatted": "Feb 16, 2009, 1:08:44 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOGOGH0UV40gT1mlupd4aVbalJJwhBaptnEs7y5",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

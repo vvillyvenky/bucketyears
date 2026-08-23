@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0330.jpg",
+  "description": "",
+  "imageViews": "9",
+  "creationTime": {
+    "timestamp": "1242208999",
+    "formatted": "May 13, 2009, 10:03:19 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234791813",
+    "formatted": "Feb 16, 2009, 1:43:33 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPZRbW0z1e-kJWYAfWEluXSM1Pj5DLFzjCHwrUW",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

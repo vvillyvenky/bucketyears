@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0273.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1242208857",
+    "formatted": "May 13, 2009, 10:00:57 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234713490",
+    "formatted": "Feb 15, 2009, 3:58:10 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMccRWtd6GK6hUnPKao5cUux_end7eizYf5ZhTR",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

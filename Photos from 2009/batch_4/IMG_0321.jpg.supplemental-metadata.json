@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0321.jpg",
+  "description": "",
+  "imageViews": "12",
+  "creationTime": {
+    "timestamp": "1242208984",
+    "formatted": "May 13, 2009, 10:03:04 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234785630",
+    "formatted": "Feb 16, 2009, 12:00:30 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOzDc6vY4MoSUUzaHrZ61pQgRq3xWf55ODJ7LDt",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

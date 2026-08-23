@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0324.jpg",
+  "description": "",
+  "imageViews": "10",
+  "creationTime": {
+    "timestamp": "1242208989",
+    "formatted": "May 13, 2009, 10:03:09 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234787977",
+    "formatted": "Feb 16, 2009, 12:39:37 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNdpK04kwwm5VKQmD6mllgDv9sR1dsbRLnmp0pv",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

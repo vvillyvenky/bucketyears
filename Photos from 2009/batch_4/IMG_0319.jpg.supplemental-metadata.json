@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0319.jpg",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1242208982",
+    "formatted": "May 13, 2009, 10:03:02 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234719339",
+    "formatted": "Feb 15, 2009, 5:35:39 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipN0qcb8FyYUpRSbRtmCt_R1FPmI05b3dfKtOT-C",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}
