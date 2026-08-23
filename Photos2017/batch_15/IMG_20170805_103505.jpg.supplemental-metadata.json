@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170805_103505.jpg",
+  "description": "",
+  "imageViews": "52",
+  "creationTime": {
+    "timestamp": "1501989383",
+    "formatted": "Aug 6, 2017, 3:16:23 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1501954507",
+    "formatted": "Aug 5, 2017, 5:35:07 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5318472,
+    "longitude": -122.875175,
+    "altitude": -46.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5318472,
+    "longitude": -122.875175,
+    "altitude": -46.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipN__8_6ebAkT2-I4weXV63KjWtv7vyddutJ0xDS",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

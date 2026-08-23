@@ -1,0 +1,29 @@
+{
+  "title": "IMG_20170812_145551.jpg",
+  "description": "",
+  "imageViews": "75",
+  "creationTime": {
+    "timestamp": "1502584591",
+    "formatted": "Aug 13, 2017, 12:36:31 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1502574952",
+    "formatted": "Aug 12, 2017, 9:55:52 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNYFqZEk2a4sXQGD4lRthB7JPI036-6gp0PeKos",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

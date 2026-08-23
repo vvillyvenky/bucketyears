@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170731_083327.jpg",
+  "description": "",
+  "imageViews": "21",
+  "creationTime": {
+    "timestamp": "1501538621",
+    "formatted": "Jul 31, 2017, 10:03:41 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1501515209",
+    "formatted": "Jul 31, 2017, 3:33:29 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5321806,
+    "longitude": -122.8746944,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5321806,
+    "longitude": -122.8746944,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPA-uKcDoSrLzpCmePjoAPld10DtcAuC7GCazpt",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

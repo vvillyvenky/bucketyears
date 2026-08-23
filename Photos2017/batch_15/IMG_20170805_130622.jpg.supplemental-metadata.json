@@ -1,0 +1,29 @@
+{
+  "title": "IMG_20170805_130622.jpg",
+  "description": "",
+  "imageViews": "63",
+  "creationTime": {
+    "timestamp": "1501989392",
+    "formatted": "Aug 6, 2017, 3:16:32 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1501963584",
+    "formatted": "Aug 5, 2017, 8:06:24 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMXZNVUkmIDDcIB7-DARBlW3KXob-VPtdliRWTe",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

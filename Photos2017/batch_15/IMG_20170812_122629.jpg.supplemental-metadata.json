@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170812_122629.jpg",
+  "description": "",
+  "imageViews": "81",
+  "creationTime": {
+    "timestamp": "1502566028",
+    "formatted": "Aug 12, 2017, 7:27:08 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1502565990",
+    "formatted": "Aug 12, 2017, 7:26:30 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.53212500000001,
+    "longitude": -122.87468890000001,
+    "altitude": 44.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.53212500000001,
+    "longitude": -122.87468890000001,
+    "altitude": 44.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPisv0bE_nX9mibrUiixNtBgjL8D8FXk5IAWQCj",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
