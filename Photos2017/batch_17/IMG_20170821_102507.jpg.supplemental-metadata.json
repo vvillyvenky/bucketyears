@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170821_102507.jpg",
+  "description": "",
+  "imageViews": "41",
+  "creationTime": {
+    "timestamp": "1503336359",
+    "formatted": "Aug 21, 2017, 5:25:59 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1503336308",
+    "formatted": "Aug 21, 2017, 5:25:08 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5324722,
+    "longitude": -122.8747889,
+    "altitude": 48.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5324722,
+    "longitude": -122.8747889,
+    "altitude": 48.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipN-NOpLrCsKM0BoobGxFYIUV9apGklqbecA5Yz-",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

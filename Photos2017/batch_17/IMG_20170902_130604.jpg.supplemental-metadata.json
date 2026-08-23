@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170902_130604.jpg",
+  "description": "",
+  "imageViews": "18",
+  "creationTime": {
+    "timestamp": "1504400256",
+    "formatted": "Sep 3, 2017, 12:57:36 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1504382765",
+    "formatted": "Sep 2, 2017, 8:06:05 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5347972,
+    "longitude": -122.26055,
+    "altitude": 247.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5347972,
+    "longitude": -122.26055,
+    "altitude": 247.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipObdC4q6EYv3Yk7-zz1LXSy34zh5sP2UIzZy8ea",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

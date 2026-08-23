@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170830_203151.jpg",
+  "description": "",
+  "imageViews": "24",
+  "creationTime": {
+    "timestamp": "1504150344",
+    "formatted": "Aug 31, 2017, 3:32:24 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1504150313",
+    "formatted": "Aug 31, 2017, 3:31:53 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5322667,
+    "longitude": -122.87459169999998,
+    "altitude": 54.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5322667,
+    "longitude": -122.87459169999998,
+    "altitude": 54.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOiNRto2qleA1qzoGMoh4izHLaaHjQVjJOVOcVC",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
