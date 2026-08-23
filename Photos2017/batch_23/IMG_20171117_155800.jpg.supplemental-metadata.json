@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20171117_155800.jpg",
+  "description": "",
+  "imageViews": "64",
+  "creationTime": {
+    "timestamp": "1510916108",
+    "formatted": "Nov 17, 2017, 10:55:08 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1510914481",
+    "formatted": "Nov 17, 2017, 10:28:01 AM UTC"
+  },
+  "geoData": {
+    "latitude": 13.038575,
+    "longitude": 80.2140972,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 13.038575,
+    "longitude": 80.2140972,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOPeGzi_2ws03rDZquQwlNX6GDsQmdQYmQw9T28",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

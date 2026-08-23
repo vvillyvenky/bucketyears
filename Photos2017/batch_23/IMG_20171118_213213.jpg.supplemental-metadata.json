@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20171118_213213.jpg",
+  "description": "",
+  "imageViews": "72",
+  "creationTime": {
+    "timestamp": "1511021385",
+    "formatted": "Nov 18, 2017, 4:09:45 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1511020934",
+    "formatted": "Nov 18, 2017, 4:02:14 PM UTC"
+  },
+  "geoData": {
+    "latitude": 13.038644399999999,
+    "longitude": 80.21410279999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 13.038644399999999,
+    "longitude": 80.21410279999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOCWXrcsIS5Bu4_RdCtTVm6TjwG7A7HmZAavvsg",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
