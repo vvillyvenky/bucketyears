@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170319_203423.jpg",
+  "description": "",
+  "imageViews": "36",
+  "creationTime": {
+    "timestamp": "1489991458",
+    "formatted": "Mar 20, 2017, 6:30:58 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1489980865",
+    "formatted": "Mar 20, 2017, 3:34:25 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5471722,
+    "longitude": -122.81467500000001,
+    "altitude": 78.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5471722,
+    "longitude": -122.81467500000001,
+    "altitude": 78.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPYy_XGKke8qOJcCRcLv6P8l03rhzsoK8rwc3mQ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

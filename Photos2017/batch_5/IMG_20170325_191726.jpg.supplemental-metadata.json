@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170325_191726.jpg",
+  "description": "",
+  "imageViews": "27",
+  "creationTime": {
+    "timestamp": "1490496063",
+    "formatted": "Mar 26, 2017, 2:41:03 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1490494647",
+    "formatted": "Mar 26, 2017, 2:17:27 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5339361,
+    "longitude": -122.89562780000001,
+    "altitude": 32.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5339361,
+    "longitude": -122.89562780000001,
+    "altitude": 32.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOEf9-f5rxKjaiCLCerX1iy36XYRy83aKSHvQwH",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
