@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0059.jpg",
+  "description": "",
+  "imageViews": "12",
+  "creationTime": {
+    "timestamp": "1242208528",
+    "formatted": "May 13, 2009, 9:55:28 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234619295",
+    "formatted": "Feb 14, 2009, 1:48:15 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPUU9n1hzRaVWpDP-OqVZIaKMX68OGH26jdv6yC",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

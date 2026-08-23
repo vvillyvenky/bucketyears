@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0093.jpg",
+  "description": "",
+  "imageViews": "13",
+  "creationTime": {
+    "timestamp": "1242208591",
+    "formatted": "May 13, 2009, 9:56:31 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234629135",
+    "formatted": "Feb 14, 2009, 4:32:15 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNSWnsIjUGWC1x7PTTBfjNz9WgTxFsopFtHwpVe",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0056.jpg",
+  "description": "",
+  "imageViews": "10",
+  "creationTime": {
+    "timestamp": "1242208520",
+    "formatted": "May 13, 2009, 9:55:20 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234619040",
+    "formatted": "Feb 14, 2009, 1:44:00 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNvhvFAhlRz22lea67UvD29Gu3hX-q1_6Ld2UyI",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

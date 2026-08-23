@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0052.jpg",
+  "description": "",
+  "imageViews": "14",
+  "creationTime": {
+    "timestamp": "1242208509",
+    "formatted": "May 13, 2009, 9:55:09 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234618870",
+    "formatted": "Feb 14, 2009, 1:41:10 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOV6bgQxQXewZ8_EUwwToYCiA6Mve5yr5ljp19W",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0071.jpg",
+  "description": "",
+  "imageViews": "13",
+  "creationTime": {
+    "timestamp": "1242208557",
+    "formatted": "May 13, 2009, 9:55:57 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234621754",
+    "formatted": "Feb 14, 2009, 2:29:14 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMnKXayk9yKEL5cXWJqad_03RNBzAdhHIU2YkYB",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

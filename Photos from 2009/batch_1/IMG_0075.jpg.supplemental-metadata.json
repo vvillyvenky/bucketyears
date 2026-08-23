@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0075.jpg",
+  "description": "",
+  "imageViews": "16",
+  "creationTime": {
+    "timestamp": "1242208565",
+    "formatted": "May 13, 2009, 9:56:05 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234621811",
+    "formatted": "Feb 14, 2009, 2:30:11 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipN1kqD2culUCSKB8g2VqqInGfRm4cgvgKVLYr1x",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

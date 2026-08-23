@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0104.jpg",
+  "description": "",
+  "imageViews": "6",
+  "creationTime": {
+    "timestamp": "1242208603",
+    "formatted": "May 13, 2009, 9:56:43 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234691900",
+    "formatted": "Feb 15, 2009, 9:58:20 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNRsnFhNMoPYnvtt_3TL74CsWMx5KURf_nJoOVN",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

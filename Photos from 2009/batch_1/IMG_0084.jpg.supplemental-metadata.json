@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0084.jpg",
+  "description": "",
+  "imageViews": "8",
+  "creationTime": {
+    "timestamp": "1242208579",
+    "formatted": "May 13, 2009, 9:56:19 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234622192",
+    "formatted": "Feb 14, 2009, 2:36:32 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPH_qM6Os0lxXHAVFNYkiYPCU-iDqzuZPhHM-Mh",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0092.jpg",
+  "description": "",
+  "imageViews": "14",
+  "creationTime": {
+    "timestamp": "1242208589",
+    "formatted": "May 13, 2009, 9:56:29 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234629131",
+    "formatted": "Feb 14, 2009, 4:32:11 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOW-V1d21eW4BN5EuyqkUWlg-md_mFeMT-aiSsV",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

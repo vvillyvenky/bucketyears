@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0097.jpg",
+  "description": "",
+  "imageViews": "7",
+  "creationTime": {
+    "timestamp": "1242208597",
+    "formatted": "May 13, 2009, 9:56:37 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234688864",
+    "formatted": "Feb 15, 2009, 9:07:44 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPsmsfZLDKI0a8byaXmGPUCgSR6lXewK7Pz0Mm1",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}

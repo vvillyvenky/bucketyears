@@ -1,0 +1,25 @@
+{
+  "title": "IMG_0058.jpg",
+  "description": "",
+  "imageViews": "11",
+  "creationTime": {
+    "timestamp": "1242208525",
+    "formatted": "May 13, 2009, 9:55:25 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1234619279",
+    "formatted": "Feb 14, 2009, 1:47:59 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNBaUubxLVtfkyZ6g6G-e5O--3Sw3Aokcjja2wU",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}
