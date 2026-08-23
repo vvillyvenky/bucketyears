@@ -1,0 +1,29 @@
+{
+  "title": "20190629_144415.mp4",
+  "description": "",
+  "imageViews": "24",
+  "creationTime": {
+    "timestamp": "1562523771",
+    "formatted": "Jul 7, 2019, 6:22:51 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1561799689",
+    "formatted": "Jun 29, 2019, 9:14:49 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOo9ArY3AE8nro28FhRd4xH6XpO2vCDHK0XsqTU",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
