@@ -1,0 +1,33 @@
+{
+  "title": "PANO_20180615_160542.jpg",
+  "description": "",
+  "imageViews": "56",
+  "creationTime": {
+    "timestamp": "1529110497",
+    "formatted": "Jun 16, 2018, 12:54:57 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1529103987",
+    "formatted": "Jun 15, 2018, 11:06:27 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.606719399999996,
+    "longitude": -123.03106389999999,
+    "altitude": 30.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.606719399999996,
+    "longitude": -123.03106389999999,
+    "altitude": 30.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPdL3QrjYfTEAVKLN-eVtNz0pdlc7HSdOUPfK8I",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

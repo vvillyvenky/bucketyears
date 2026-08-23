@@ -1,0 +1,33 @@
+{
+  "title": "VID_20180615_161017.mp4",
+  "description": "",
+  "imageViews": "41",
+  "creationTime": {
+    "timestamp": "1529110497",
+    "formatted": "Jun 16, 2018, 12:54:57 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1529110003",
+    "formatted": "Jun 16, 2018, 12:46:43 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.6065,
+    "longitude": -123.0309,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.6065,
+    "longitude": -123.0309,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOMUKRWusPBn2PQJ0E2qpQ-Xw4nyBNkOfkd9aZF",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
