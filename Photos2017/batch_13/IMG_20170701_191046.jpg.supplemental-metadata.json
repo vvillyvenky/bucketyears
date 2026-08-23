@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170701_191046.jpg",
+  "description": "",
+  "imageViews": "67",
+  "creationTime": {
+    "timestamp": "1498966239",
+    "formatted": "Jul 2, 2017, 3:30:39 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1498961448",
+    "formatted": "Jul 2, 2017, 2:10:48 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.516400000000004,
+    "longitude": -122.62898890000001,
+    "altitude": 61.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.516400000000004,
+    "longitude": -122.62898890000001,
+    "altitude": 61.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMbx9z3_vgaU4AVaPKEXFkStDQvy-VO4vNzYuhG",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

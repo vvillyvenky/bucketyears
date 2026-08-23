@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170630_104642.jpg",
+  "description": "",
+  "imageViews": "64",
+  "creationTime": {
+    "timestamp": "1498857270",
+    "formatted": "Jun 30, 2017, 9:14:30 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1498844804",
+    "formatted": "Jun 30, 2017, 5:46:44 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5482917,
+    "longitude": -122.90052219999998,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5482917,
+    "longitude": -122.90052219999998,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMpVapqvJn9jzFWTSWi5FED-GHLH_aPaMb1xYDd",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170624_221640.jpg",
+  "description": "",
+  "imageViews": "92",
+  "creationTime": {
+    "timestamp": "1498367833",
+    "formatted": "Jun 25, 2017, 5:17:13 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1498367803",
+    "formatted": "Jun 25, 2017, 5:16:43 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.53218890000001,
+    "longitude": -122.8746917,
+    "altitude": 57.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.53218890000001,
+    "longitude": -122.8746917,
+    "altitude": 57.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipN0DMFICfTGWUoQF0eEBbsIRIzq08ZIH0Zib4eZ",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
