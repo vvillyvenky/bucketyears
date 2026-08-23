@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170604_172241.jpg",
+  "description": "",
+  "imageViews": "57",
+  "creationTime": {
+    "timestamp": "1496622183",
+    "formatted": "Jun 5, 2017, 12:23:03 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1496622162",
+    "formatted": "Jun 5, 2017, 12:22:42 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.532213899999995,
+    "longitude": -122.8746444,
+    "altitude": 52.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.532213899999995,
+    "longitude": -122.8746444,
+    "altitude": 52.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipN1UVMuFMN71pUnk8SV3ahKFZrIpoNObmg7av3B",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

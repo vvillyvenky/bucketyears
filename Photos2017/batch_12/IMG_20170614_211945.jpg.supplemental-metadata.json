@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170614_211945.jpg",
+  "description": "",
+  "imageViews": "68",
+  "creationTime": {
+    "timestamp": "1497500413",
+    "formatted": "Jun 15, 2017, 4:20:13 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1497500387",
+    "formatted": "Jun 15, 2017, 4:19:47 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.532155599999996,
+    "longitude": -122.87468609999999,
+    "altitude": -0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.532155599999996,
+    "longitude": -122.87468609999999,
+    "altitude": -0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNvfoQqtitkcw2fBhERx_4I3PuSMC1EyRcZi47l",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170610_180239.jpg",
+  "description": "",
+  "imageViews": "43",
+  "creationTime": {
+    "timestamp": "1497142989",
+    "formatted": "Jun 11, 2017, 1:03:09 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1497142960",
+    "formatted": "Jun 11, 2017, 1:02:40 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5321861,
+    "longitude": -122.8747,
+    "altitude": 48.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5321861,
+    "longitude": -122.8747,
+    "altitude": 48.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPEHNqCSkrWB6FMi-N3aMGI5lh84F2T-5EvSz6J",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
