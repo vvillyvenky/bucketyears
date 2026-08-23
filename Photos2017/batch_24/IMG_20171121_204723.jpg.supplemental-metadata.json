@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20171121_204723.jpg",
+  "description": "",
+  "imageViews": "83",
+  "creationTime": {
+    "timestamp": "1511277493",
+    "formatted": "Nov 21, 2017, 3:18:13 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1511277445",
+    "formatted": "Nov 21, 2017, 3:17:25 PM UTC"
+  },
+  "geoData": {
+    "latitude": 13.038638899999999,
+    "longitude": 80.2141,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 13.038638899999999,
+    "longitude": 80.2141,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOcpKnlYU20tsL2WfSHqnvKOqW87ZcBHH7BlNBT",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

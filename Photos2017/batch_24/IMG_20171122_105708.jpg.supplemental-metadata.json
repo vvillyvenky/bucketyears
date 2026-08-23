@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20171122_105708.jpg",
+  "description": "",
+  "imageViews": "22",
+  "creationTime": {
+    "timestamp": "1511328636",
+    "formatted": "Nov 22, 2017, 5:30:36 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1511328429",
+    "formatted": "Nov 22, 2017, 5:27:09 AM UTC"
+  },
+  "geoData": {
+    "latitude": 13.038638899999999,
+    "longitude": 80.21410279999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 13.038638899999999,
+    "longitude": 80.21410279999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMSzQg2HEsoMBpx7hAeo5TD-lzN98QiATqV_1vt",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
