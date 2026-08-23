@@ -1,0 +1,29 @@
+{
+  "title": "IMG_20170401_144156.jpg",
+  "description": "",
+  "imageViews": "42",
+  "creationTime": {
+    "timestamp": "1491096749",
+    "formatted": "Apr 2, 2017, 1:32:29 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1491082917",
+    "formatted": "Apr 1, 2017, 9:41:57 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPXUQ6uearzUopQwaGnIS733yV1Z2nQxXYhYAvq",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
