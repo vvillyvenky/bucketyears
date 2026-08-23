@@ -1,0 +1,19 @@
+{
+  "title": "Saturday afternoon in Canby",
+  "description": "",
+  "access": "protected",
+  "date": {
+    "timestamp": "1472943834",
+    "formatted": "Sep 3, 2016, 11:03:54 PM UTC"
+  },
+  "enrichments": [{
+    "locationEnrichment": {
+      "location": [{
+        "name": "Swan Island Dahlias",
+        "description": "Canby",
+        "latitudeE7": 452798424,
+        "longitudeE7": -1227079875
+      }]
+    }
+  }]
+}
