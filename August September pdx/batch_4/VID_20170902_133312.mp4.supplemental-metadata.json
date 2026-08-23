@@ -1,0 +1,36 @@
+{
+  "title": "VID_20170902_133312.mp4",
+  "description": "",
+  "imageViews": "39",
+  "creationTime": {
+    "timestamp": "1505917192",
+    "formatted": "Sep 20, 2017, 2:19:52 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1504384391",
+    "formatted": "Sep 2, 2017, 8:33:11 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.537299999999995,
+    "longitude": -122.217,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.537299999999995,
+    "longitude": -122.217,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNTEhAttdjdOGTD6zWRQhwv6spApJuR7ruTJov0",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

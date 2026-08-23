@@ -1,0 +1,36 @@
+{
+  "title": "VID_20170708_202218.mp4",
+  "description": "",
+  "imageViews": "103",
+  "creationTime": {
+    "timestamp": "1505917192",
+    "formatted": "Sep 20, 2017, 2:19:52 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1499570538",
+    "formatted": "Jul 9, 2017, 3:22:18 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.532199999999996,
+    "longitude": -122.87460000000002,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.532199999999996,
+    "longitude": -122.87460000000002,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipM8s3jL-ctll39iAPABJ4ESdxHpKVAEutnZzu0q",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
