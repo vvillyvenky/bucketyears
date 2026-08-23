@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170319_203156.jpg",
+  "description": "",
+  "imageViews": "82",
+  "creationTime": {
+    "timestamp": "1489991314",
+    "formatted": "Mar 20, 2017, 6:28:34 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1489980718",
+    "formatted": "Mar 20, 2017, 3:31:58 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5471194,
+    "longitude": -122.8147083,
+    "altitude": 97.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5471194,
+    "longitude": -122.8147083,
+    "altitude": 97.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipM3Z8sJavEHEJMC8kWrq2iDpdOXXWzkPCNRy0vc",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

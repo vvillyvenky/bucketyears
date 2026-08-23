@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170309_200540.jpg",
+  "description": "",
+  "imageViews": "27",
+  "creationTime": {
+    "timestamp": "1489118784",
+    "formatted": "Mar 10, 2017, 4:06:24 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1489118741",
+    "formatted": "Mar 10, 2017, 4:05:41 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5318222,
+    "longitude": -122.8736083,
+    "altitude": 58.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5318222,
+    "longitude": -122.8736083,
+    "altitude": 58.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipN4GqOSdBuDxmRsgZqfyn_guF9GcqdUjhLPcpr_",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
