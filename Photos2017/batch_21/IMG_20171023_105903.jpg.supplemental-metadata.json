@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20171023_105903.jpg",
+  "description": "",
+  "imageViews": "77",
+  "creationTime": {
+    "timestamp": "1508745093",
+    "formatted": "Oct 23, 2017, 7:51:33 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1508736543",
+    "formatted": "Oct 23, 2017, 5:29:03 AM UTC"
+  },
+  "geoData": {
+    "latitude": 13.038577799999999,
+    "longitude": 80.2141333,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 13.038577799999999,
+    "longitude": 80.2141333,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMTzoyEdALQd6cFLAn5V9fvyQ3joKE65hNL887s",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

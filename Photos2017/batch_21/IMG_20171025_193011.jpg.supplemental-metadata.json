@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20171025_193011.jpg",
+  "description": "",
+  "imageViews": "53",
+  "creationTime": {
+    "timestamp": "1508940062",
+    "formatted": "Oct 25, 2017, 2:01:02 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1508940012",
+    "formatted": "Oct 25, 2017, 2:00:12 PM UTC"
+  },
+  "geoData": {
+    "latitude": 13.0247833,
+    "longitude": 80.2561444,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 13.0247833,
+    "longitude": 80.2561444,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNQx8-Wqu7OGaPs0Q8KGiz7ZDEvy4EjoTHjtcqM",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
