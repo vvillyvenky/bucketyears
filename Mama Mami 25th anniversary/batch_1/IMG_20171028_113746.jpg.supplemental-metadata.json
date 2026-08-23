@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20171028_113746.jpg",
+  "description": "",
+  "imageViews": "33",
+  "creationTime": {
+    "timestamp": "1509171562",
+    "formatted": "Oct 28, 2017, 6:19:22 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1509170867",
+    "formatted": "Oct 28, 2017, 6:07:47 AM UTC"
+  },
+  "geoData": {
+    "latitude": 13.0245722,
+    "longitude": 80.2561528,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 13.0245722,
+    "longitude": 80.2561528,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMz7FmzH_uy32hlyEf8fge3KFWQFgkQlozi-6kp",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
