@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170603_124739.jpg",
+  "description": "",
+  "imageViews": "75",
+  "creationTime": {
+    "timestamp": "1496519334",
+    "formatted": "Jun 3, 2017, 7:48:54 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1496519260",
+    "formatted": "Jun 3, 2017, 7:47:40 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.532161099999996,
+    "longitude": -122.87474439999998,
+    "altitude": 51.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.532161099999996,
+    "longitude": -122.87474439999998,
+    "altitude": 51.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPTSRssACkdEbYqpdaVRi_1vvwbConhH61O2fAv",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

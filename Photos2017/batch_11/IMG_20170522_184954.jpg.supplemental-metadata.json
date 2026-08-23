@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170522_184954.jpg",
+  "description": "",
+  "imageViews": "76",
+  "creationTime": {
+    "timestamp": "1495528421",
+    "formatted": "May 23, 2017, 8:33:41 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1495504195",
+    "formatted": "May 23, 2017, 1:49:55 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.535683299999995,
+    "longitude": -122.89162220000001,
+    "altitude": -0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.535683299999995,
+    "longitude": -122.89162220000001,
+    "altitude": -0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipOTqmm33PnNCr8HfWEyUvHt6PkXunTRddsZivSV",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
