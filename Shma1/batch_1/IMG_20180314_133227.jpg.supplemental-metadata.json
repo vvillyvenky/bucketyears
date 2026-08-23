@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20180314_133227.jpg",
+  "description": "",
+  "imageViews": "39",
+  "creationTime": {
+    "timestamp": "1521075427",
+    "formatted": "Mar 15, 2018, 12:57:07 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1521059548",
+    "formatted": "Mar 14, 2018, 8:32:28 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5320639,
+    "longitude": -122.8750694,
+    "altitude": 56.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5320639,
+    "longitude": -122.8750694,
+    "altitude": 56.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMyvVH-6hbcOQp39OmlC9zlJrchNNOGPURxTaNm",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
