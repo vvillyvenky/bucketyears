@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170410_115153.jpg",
+  "description": "",
+  "imageViews": "29",
+  "creationTime": {
+    "timestamp": "1491864522",
+    "formatted": "Apr 10, 2017, 10:48:42 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1491850315",
+    "formatted": "Apr 10, 2017, 6:51:55 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5337111,
+    "longitude": -122.89623060000001,
+    "altitude": 42.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5337111,
+    "longitude": -122.89623060000001,
+    "altitude": 42.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMX3GLeIICQegvOC2azjrR8wRD8HnlEVsX96npf",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
