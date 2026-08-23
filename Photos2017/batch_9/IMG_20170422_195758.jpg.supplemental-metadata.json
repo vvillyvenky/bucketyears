@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170422_195758.jpg",
+  "description": "",
+  "imageViews": "51",
+  "creationTime": {
+    "timestamp": "1492923974",
+    "formatted": "Apr 23, 2017, 5:06:14 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1492916279",
+    "formatted": "Apr 23, 2017, 2:57:59 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.534202799999996,
+    "longitude": -122.89569999999998,
+    "altitude": 19.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.534202799999996,
+    "longitude": -122.89569999999998,
+    "altitude": 19.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNVUF5aVUZW4-I9aN29i2subUdb8ou8s7mUf0S3",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

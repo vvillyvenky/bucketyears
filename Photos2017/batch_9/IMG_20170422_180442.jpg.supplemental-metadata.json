@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170422_180442.jpg",
+  "description": "",
+  "imageViews": "46",
+  "creationTime": {
+    "timestamp": "1492923961",
+    "formatted": "Apr 23, 2017, 5:06:01 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1492909484",
+    "formatted": "Apr 23, 2017, 1:04:44 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5343361,
+    "longitude": -122.89539440000001,
+    "altitude": 15.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5343361,
+    "longitude": -122.89539440000001,
+    "altitude": 15.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPE3r6-xmGJJcIlPt57AY_LPgjB3YI0MkG6kSAc",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

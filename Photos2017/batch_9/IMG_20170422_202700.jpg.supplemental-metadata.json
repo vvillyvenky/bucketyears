@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170422_202700.jpg",
+  "description": "",
+  "imageViews": "44",
+  "creationTime": {
+    "timestamp": "1492924004",
+    "formatted": "Apr 23, 2017, 5:06:44 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1492918021",
+    "formatted": "Apr 23, 2017, 3:27:01 AM UTC"
+  },
+  "geoData": {
+    "latitude": 45.5340111,
+    "longitude": -122.8957194,
+    "altitude": 27.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.5340111,
+    "longitude": -122.8957194,
+    "altitude": 27.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMUg1Z9gbpqm9Bdck8tSvkMNFD1SWUk_m4S4FJj",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
