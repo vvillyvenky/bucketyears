@@ -1,0 +1,25 @@
+{
+  "title": "IMG_1985.JPG",
+  "description": "",
+  "imageViews": "16",
+  "creationTime": {
+    "timestamp": "1242206070",
+    "formatted": "May 13, 2009, 9:14:30 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1241295165",
+    "formatted": "May 2, 2009, 8:12:45 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipPUT20wVqu62ZBEK2RlBoelbXR_ChWWibTZc0wM",
+  "googlePhotosOrigin": {
+    "picasa": {
+    }
+  }
+}
