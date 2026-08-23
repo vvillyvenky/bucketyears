@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160430_173821.jpg",
+  "description": "",
+  "imageViews": "44",
+  "creationTime": {
+    "timestamp": "1465183200",
+    "formatted": "Jun 6, 2016, 3:20:00 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1462063102",
+    "formatted": "May 1, 2016, 12:38:22 AM UTC"
+  },
+  "geoData": {
+    "latitude": 36.0303444,
+    "longitude": -113.8264306,
+    "altitude": 1409.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 36.0303444,
+    "longitude": -113.8264306,
+    "altitude": 1409.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNmGqtP6ZLOUr3qCMWuB_dg93lnvcu0rVLSyvHj",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

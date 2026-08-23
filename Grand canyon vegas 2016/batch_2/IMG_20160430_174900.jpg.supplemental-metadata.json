@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20160430_174900.jpg",
+  "description": "",
+  "imageViews": "10",
+  "creationTime": {
+    "timestamp": "1465183200",
+    "formatted": "Jun 6, 2016, 3:20:00 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1462063741",
+    "formatted": "May 1, 2016, 12:49:01 AM UTC"
+  },
+  "geoData": {
+    "latitude": 36.0299889,
+    "longitude": -113.8278833,
+    "altitude": 1427.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 36.0299889,
+    "longitude": -113.8278833,
+    "altitude": 1427.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipNLy5RZKBFWBGPRqJkpEqSCWh5UuKxGOk3MTkm-",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
