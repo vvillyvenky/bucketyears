@@ -1,0 +1,36 @@
+{
+  "title": "IMG_20170904_133740.jpg",
+  "description": "",
+  "imageViews": "67",
+  "creationTime": {
+    "timestamp": "1505917192",
+    "formatted": "Sep 20, 2017, 2:19:52 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1504557461",
+    "formatted": "Sep 4, 2017, 8:37:41 PM UTC"
+  },
+  "geoData": {
+    "latitude": 45.2784611,
+    "longitude": -122.70535559999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 45.2784611,
+    "longitude": -122.70535559999999,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "url": "https://photos.google.com/photo/AF1QipMH2ULnOKbcMt16wVn1hK6bB-DW2l97CGO5lmpV",
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}
